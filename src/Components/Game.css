@@ -1,6 +1,17 @@
 .App {
   text-align: center;
 }
+.row{
+  color: #9fe234;
+  font-size: larger;
+  
+}
+.btn{
+  background-color: #67db67;
+  border-radius: 50px;
+  height: 40px;
+  margin-top: 20px;
+}
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
